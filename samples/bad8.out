@@ -1,0 +1,11 @@
+DeclList -> 
+OptExtends -> 
+FieldList -> 
+Type -> bool
+Variable -> Type identifier
+
+*** Error line 2 column 16
+   bool notgood, variables;
+               ^
+*** parse error
+

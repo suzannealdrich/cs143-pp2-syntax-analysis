@@ -1,0 +1,16 @@
+void main() {
+
+  bool c1;
+  bool c2;
+  bool s1;
+  bool s2;
+
+  c1 = true;
+  c2 = true;
+
+  if (c1)
+    if (c2) s1 = true;
+    else s2 = true;
+
+}
+

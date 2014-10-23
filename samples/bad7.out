@@ -1,0 +1,40 @@
+DeclList -> 
+OptExtends -> extends identifier
+FieldList -> 
+Type -> bool
+Variable -> Type identifier
+VariableDecl -> Variable ;
+Field -> VariableDecl
+FieldList -> FieldList Field
+Type -> bool
+Formals -> 
+StmtList ->
+OptReceiver ->
+LValue -> OptReceiver identifier
+Expr -> LValue
+ReturnStmt -> return Expr
+Stmt -> ReturnStmt ;
+StmtList -> StmtList Stmt
+StmtBlock -> { StmtList }
+FunctionDefn -> Type identifier ( Formals ) StmtBlock
+Field -> FunctionDefn
+FieldList -> FieldList Field
+ClassDefn -> class identifier OptExtends { FieldList }
+Decl -> ClassDefn
+DeclList -> DeclList Decl
+Type -> void
+Formals -> 
+StmtList ->
+Type -> class identifier
+Variable -> Type identifier
+VariableDecl -> Variable ;
+Stmt -> VariableDecl
+StmtList -> StmtList Stmt
+OptReceiver ->
+LValue -> OptReceiver identifier
+
+*** Error line 12 column 18
+  betsy = New(Cow, true);
+                 ^
+*** parse error
+

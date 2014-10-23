@@ -1,0 +1,365 @@
+DeclList -> 
+Type -> void
+Formals -> 
+StmtList -> 
+Type -> int
+Variable -> Type identifier
+VariableDecl -> Variable ;
+Stmt -> VariableDecl
+StmtList -> StmtList Stmt
+Constant -> stringConstant
+Expr -> Constant
+ExprList -> Expr
+PrintStmt -> Print ( ExprList )
+Stmt -> PrintStmt ;
+StmtList -> StmtList Stmt
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Expr -> ReadInteger ( )
+SimpleStmt -> LValue = Expr
+Stmt -> SimpleStmt ;
+StmtList -> StmtList Stmt
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Expr -> LValue
+StmtList -> 
+Constant -> stringConstant
+Expr -> Constant
+ExprList -> Expr
+PrintStmt -> Print ( ExprList )
+Stmt -> PrintStmt ;
+StmtList -> StmtList Stmt
+BreakStmt -> break
+Stmt -> BreakStmt ;
+StmtList -> StmtList Stmt
+CaseStmt -> case intConstant : StmtList
+CaseList -> 
+StmtList -> 
+Constant -> stringConstant
+Expr -> Constant
+ExprList -> Expr
+PrintStmt -> Print ( ExprList )
+Stmt -> PrintStmt ;
+StmtList -> StmtList Stmt
+BreakStmt -> break
+Stmt -> BreakStmt ;
+StmtList -> StmtList Stmt
+CaseStmt -> case intConstant : StmtList
+CaseList -> CaseList CaseStmt
+StmtList -> 
+Constant -> stringConstant
+Expr -> Constant
+ExprList -> Expr
+PrintStmt -> Print ( ExprList )
+Stmt -> PrintStmt ;
+StmtList -> StmtList Stmt
+BreakStmt -> break
+Stmt -> BreakStmt ;
+StmtList -> StmtList Stmt
+CaseStmt -> case intConstant : StmtList
+CaseList -> CaseList CaseStmt
+StmtList -> 
+Constant -> stringConstant
+Expr -> Constant
+ExprList -> Expr
+PrintStmt -> Print ( ExprList )
+Stmt -> PrintStmt ;
+StmtList -> StmtList Stmt
+BreakStmt -> break
+Stmt -> BreakStmt ;
+StmtList -> StmtList Stmt
+CaseStmt -> case intConstant : StmtList
+CaseList -> CaseList CaseStmt
+StmtList -> 
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Expr -> LValue
+ExprList -> Expr
+PrintStmt -> Print ( ExprList )
+Stmt -> PrintStmt ;
+StmtList -> StmtList Stmt
+BreakStmt -> break
+Stmt -> BreakStmt ;
+StmtList -> StmtList Stmt
+DefaultStmt -> default : StmtList
+SwitchStmt -> switch ( Expr ) { CaseStmt CaseList Default }
+Stmt -> SwitchStmt
+StmtList -> StmtList Stmt
+StmtBlock -> { StmtList }
+FunctionDefn -> Type identifier ( Formals ) StmtBlock
+Decl -> FunctionDefn
+DeclList -> DeclList Decl
+Type -> void
+Formals -> 
+StmtList -> 
+Type -> int
+Variable -> Type identifier
+VariableDecl -> Variable ;
+Stmt -> VariableDecl
+StmtList -> StmtList Stmt
+Type -> int
+Variable -> Type identifier
+VariableDecl -> Variable ;
+Stmt -> VariableDecl
+StmtList -> StmtList Stmt
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Expr -> ReadInteger ( )
+SimpleStmt -> LValue = Expr
+Stmt -> SimpleStmt ;
+StmtList -> StmtList Stmt
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Expr -> ReadInteger ( )
+SimpleStmt -> LValue = Expr
+Stmt -> SimpleStmt ;
+StmtList -> StmtList Stmt
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Expr -> LValue
+Constant -> intConstant
+Expr -> Constant
+Expr -> Expr * Expr
+Expr -> ( Expr )
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Expr -> LValue
+Expr -> Expr + Expr
+Expr -> ( Expr )
+Constant -> intConstant
+Expr -> Constant
+Expr -> Expr / Expr
+StmtList -> 
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Expr -> LValue
+ExprList -> Expr
+PrintStmt -> Print ( ExprList )
+Stmt -> PrintStmt ;
+StmtList -> StmtList Stmt
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Constant -> intConstant
+Expr -> Constant
+SimpleStmt -> LValue = Expr
+Stmt -> SimpleStmt ;
+StmtList -> StmtList Stmt
+CaseStmt -> case intConstant : StmtList
+CaseList -> 
+StmtList -> 
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Expr -> LValue
+ExprList -> Expr
+PrintStmt -> Print ( ExprList )
+Stmt -> PrintStmt ;
+StmtList -> StmtList Stmt
+BreakStmt -> break
+Stmt -> BreakStmt ;
+StmtList -> StmtList Stmt
+CaseStmt -> case intConstant : StmtList
+CaseList -> CaseList CaseStmt
+StmtList -> 
+OptReceiver -> 
+LValue -> OptReceiver identifier
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Expr -> LValue
+Constant -> intConstant
+Expr -> Constant
+Expr -> Expr * Expr
+SimpleStmt -> LValue = Expr
+Stmt -> SimpleStmt ;
+StmtList -> StmtList Stmt
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Constant -> intConstant
+Expr -> Constant
+SimpleStmt -> LValue = Expr
+Stmt -> SimpleStmt ;
+StmtList -> StmtList Stmt
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Constant -> intConstant
+Expr -> Constant
+SimpleStmt -> LValue = Expr
+Stmt -> SimpleStmt ;
+StmtList -> StmtList Stmt
+BreakStmt -> break
+Stmt -> BreakStmt ;
+StmtList -> StmtList Stmt
+CaseStmt -> case intConstant : StmtList
+CaseList -> CaseList CaseStmt
+StmtList -> 
+BreakStmt -> break
+Stmt -> BreakStmt ;
+StmtList -> StmtList Stmt
+CaseStmt -> case intConstant : StmtList
+CaseList -> CaseList CaseStmt
+StmtList -> 
+BreakStmt -> break
+Stmt -> BreakStmt ;
+StmtList -> StmtList Stmt
+DefaultStmt -> default : StmtList
+SwitchStmt -> switch ( Expr ) { CaseStmt CaseList Default }
+Stmt -> SwitchStmt
+StmtList -> StmtList Stmt
+StmtBlock -> { StmtList }
+FunctionDefn -> Type identifier ( Formals ) StmtBlock
+Decl -> FunctionDefn
+DeclList -> DeclList Decl
+Type -> void
+Formals -> 
+StmtList -> 
+Type -> int
+Variable -> Type identifier
+VariableDecl -> Variable ;
+Stmt -> VariableDecl
+StmtList -> StmtList Stmt
+Type -> int
+Variable -> Type identifier
+VariableDecl -> Variable ;
+Stmt -> VariableDecl
+StmtList -> StmtList Stmt
+Constant -> stringConstant
+Expr -> Constant
+ExprList -> Expr
+PrintStmt -> Print ( ExprList )
+Stmt -> PrintStmt ;
+StmtList -> StmtList Stmt
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Expr -> ReadInteger ( )
+SimpleStmt -> LValue = Expr
+Stmt -> SimpleStmt ;
+StmtList -> StmtList Stmt
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Expr -> LValue
+StmtList -> 
+CaseStmt -> case intConstant : StmtList
+CaseList -> 
+StmtList -> 
+CaseStmt -> case intConstant : StmtList
+CaseList -> CaseList CaseStmt
+StmtList -> 
+CaseStmt -> case intConstant : StmtList
+CaseList -> CaseList CaseStmt
+StmtList -> 
+CaseStmt -> case intConstant : StmtList
+CaseList -> CaseList CaseStmt
+StmtList -> 
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Constant -> intConstant
+Expr -> Constant
+SimpleStmt -> LValue = Expr
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Expr -> LValue
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Expr -> LValue
+Expr -> Expr <= Expr
+BoolExpr -> Expr
+OptReceiver -> 
+LValue -> OptReceiver identifier ++
+Expr -> LValue
+SimpleStmt -> Expr
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Expr -> LValue
+ExprList -> Expr
+PrintStmt -> Print ( ExprList )
+Stmt -> PrintStmt ;
+ForStmt -> for ( SimpleStmt ; BoolExpr  ; SimpleStmt ) Stmt
+Stmt -> ForStmt
+StmtList -> StmtList Stmt
+Constant -> stringConstant
+Expr -> Constant
+ExprList -> Expr
+PrintStmt -> Print ( ExprList )
+Stmt -> PrintStmt ;
+StmtList -> StmtList Stmt
+BreakStmt -> break
+Stmt -> BreakStmt ;
+StmtList -> StmtList Stmt
+CaseStmt -> case intConstant : StmtList
+CaseList -> CaseList CaseStmt
+StmtList -> 
+CaseStmt -> case intConstant : StmtList
+CaseList -> CaseList CaseStmt
+StmtList -> 
+CaseStmt -> case intConstant : StmtList
+CaseList -> CaseList CaseStmt
+StmtList -> 
+CaseStmt -> case intConstant : StmtList
+CaseList -> CaseList CaseStmt
+StmtList -> 
+CaseStmt -> case intConstant : StmtList
+CaseList -> CaseList CaseStmt
+StmtList -> 
+StmtList -> 
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Constant -> intConstant
+Expr -> Constant
+SimpleStmt -> LValue = Expr
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Expr -> LValue
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Expr -> LValue
+Expr -> Expr <= Expr
+BoolExpr -> Expr
+OptReceiver -> 
+LValue -> OptReceiver identifier ++
+Expr -> LValue
+SimpleStmt -> Expr
+OptReceiver -> 
+LValue -> OptReceiver identifier
+Expr -> LValue
+ExprList -> Expr
+PrintStmt -> Print ( ExprList )
+Stmt -> PrintStmt ;
+ForStmt -> for ( SimpleStmt ; BoolExpr  ; SimpleStmt ) Stmt
+Stmt -> ForStmt
+StmtList -> StmtList Stmt
+Constant -> stringConstant
+Expr -> Constant
+ExprList -> Expr
+PrintStmt -> Print ( ExprList )
+Stmt -> PrintStmt ;
+StmtList -> StmtList Stmt
+BreakStmt -> break
+Stmt -> BreakStmt ;
+StmtList -> StmtList Stmt
+StmtBlock -> { StmtList }
+Stmt -> StmtBlock
+StmtList -> StmtList Stmt
+CaseStmt -> case intConstant : StmtList
+CaseList -> CaseList CaseStmt
+StmtList -> 
+Constant -> stringConstant
+Expr -> Constant
+ExprList -> Expr
+PrintStmt -> Print ( ExprList )
+Stmt -> PrintStmt ;
+StmtList -> StmtList Stmt
+DefaultStmt -> default : StmtList
+SwitchStmt -> switch ( Expr ) { CaseStmt CaseList Default }
+Stmt -> SwitchStmt
+StmtList -> StmtList Stmt
+StmtBlock -> { StmtList }
+FunctionDefn -> Type identifier ( Formals ) StmtBlock
+Decl -> FunctionDefn
+DeclList -> DeclList Decl
+Type -> void
+Formals -> 
+StmtList -> 
+StmtBlock -> { StmtList }
+FunctionDefn -> Type identifier ( Formals ) StmtBlock
+Decl -> FunctionDefn
+DeclList -> DeclList Decl
+Program -> DeclList

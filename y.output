@@ -1,0 +1,3743 @@
+Conflict in state 97 between rule 86 and token T_LessEqual resolved as reduce.
+Conflict in state 97 between rule 86 and token T_GreaterEqual resolved as reduce.
+Conflict in state 97 between rule 86 and token T_Equal resolved as reduce.
+Conflict in state 97 between rule 86 and token T_NotEqual resolved as reduce.
+Conflict in state 97 between rule 86 and token T_And resolved as reduce.
+Conflict in state 97 between rule 86 and token T_Or resolved as reduce.
+Conflict in state 97 between rule 86 and token '<' resolved as reduce.
+Conflict in state 97 between rule 86 and token '>' resolved as reduce.
+Conflict in state 97 between rule 86 and token '+' resolved as reduce.
+Conflict in state 97 between rule 86 and token '-' resolved as reduce.
+Conflict in state 97 between rule 86 and token '*' resolved as reduce.
+Conflict in state 97 between rule 86 and token '/' resolved as reduce.
+Conflict in state 97 between rule 86 and token '%' resolved as reduce.
+Conflict in state 97 between rule 86 and token '[' resolved as shift.
+Conflict in state 97 between rule 86 and token '.' resolved as shift.
+Conflict in state 98 between rule 95 and token T_LessEqual resolved as reduce.
+Conflict in state 98 between rule 95 and token T_GreaterEqual resolved as reduce.
+Conflict in state 98 between rule 95 and token T_Equal resolved as reduce.
+Conflict in state 98 between rule 95 and token T_NotEqual resolved as reduce.
+Conflict in state 98 between rule 95 and token T_And resolved as reduce.
+Conflict in state 98 between rule 95 and token T_Or resolved as reduce.
+Conflict in state 98 between rule 95 and token '<' resolved as reduce.
+Conflict in state 98 between rule 95 and token '>' resolved as reduce.
+Conflict in state 98 between rule 95 and token '+' resolved as reduce.
+Conflict in state 98 between rule 95 and token '-' resolved as reduce.
+Conflict in state 98 between rule 95 and token '*' resolved as reduce.
+Conflict in state 98 between rule 95 and token '/' resolved as reduce.
+Conflict in state 98 between rule 95 and token '%' resolved as reduce.
+Conflict in state 98 between rule 95 and token '[' resolved as shift.
+Conflict in state 98 between rule 95 and token '.' resolved as shift.
+Conflict in state 137 between rule 88 and token T_LessEqual resolved as an error.
+Conflict in state 137 between rule 88 and token T_GreaterEqual resolved as an error.
+Conflict in state 137 between rule 88 and token T_Equal resolved as reduce.
+Conflict in state 137 between rule 88 and token T_NotEqual resolved as reduce.
+Conflict in state 137 between rule 88 and token T_And resolved as reduce.
+Conflict in state 137 between rule 88 and token T_Or resolved as reduce.
+Conflict in state 137 between rule 88 and token '<' resolved as an error.
+Conflict in state 137 between rule 88 and token '>' resolved as an error.
+Conflict in state 137 between rule 88 and token '+' resolved as shift.
+Conflict in state 137 between rule 88 and token '-' resolved as shift.
+Conflict in state 137 between rule 88 and token '*' resolved as shift.
+Conflict in state 137 between rule 88 and token '/' resolved as shift.
+Conflict in state 137 between rule 88 and token '%' resolved as shift.
+Conflict in state 137 between rule 88 and token '[' resolved as shift.
+Conflict in state 137 between rule 88 and token '.' resolved as shift.
+Conflict in state 138 between rule 90 and token T_LessEqual resolved as an error.
+Conflict in state 138 between rule 90 and token T_GreaterEqual resolved as an error.
+Conflict in state 138 between rule 90 and token T_Equal resolved as reduce.
+Conflict in state 138 between rule 90 and token T_NotEqual resolved as reduce.
+Conflict in state 138 between rule 90 and token T_And resolved as reduce.
+Conflict in state 138 between rule 90 and token T_Or resolved as reduce.
+Conflict in state 138 between rule 90 and token '<' resolved as an error.
+Conflict in state 138 between rule 90 and token '>' resolved as an error.
+Conflict in state 138 between rule 90 and token '+' resolved as shift.
+Conflict in state 138 between rule 90 and token '-' resolved as shift.
+Conflict in state 138 between rule 90 and token '*' resolved as shift.
+Conflict in state 138 between rule 90 and token '/' resolved as shift.
+Conflict in state 138 between rule 90 and token '%' resolved as shift.
+Conflict in state 138 between rule 90 and token '[' resolved as shift.
+Conflict in state 138 between rule 90 and token '.' resolved as shift.
+Conflict in state 139 between rule 91 and token T_LessEqual resolved as shift.
+Conflict in state 139 between rule 91 and token T_GreaterEqual resolved as shift.
+Conflict in state 139 between rule 91 and token T_Equal resolved as reduce.
+Conflict in state 139 between rule 91 and token T_NotEqual resolved as reduce.
+Conflict in state 139 between rule 91 and token T_And resolved as reduce.
+Conflict in state 139 between rule 91 and token T_Or resolved as reduce.
+Conflict in state 139 between rule 91 and token '<' resolved as shift.
+Conflict in state 139 between rule 91 and token '>' resolved as shift.
+Conflict in state 139 between rule 91 and token '+' resolved as shift.
+Conflict in state 139 between rule 91 and token '-' resolved as shift.
+Conflict in state 139 between rule 91 and token '*' resolved as shift.
+Conflict in state 139 between rule 91 and token '/' resolved as shift.
+Conflict in state 139 between rule 91 and token '%' resolved as shift.
+Conflict in state 139 between rule 91 and token '[' resolved as shift.
+Conflict in state 139 between rule 91 and token '.' resolved as shift.
+Conflict in state 140 between rule 92 and token T_LessEqual resolved as shift.
+Conflict in state 140 between rule 92 and token T_GreaterEqual resolved as shift.
+Conflict in state 140 between rule 92 and token T_Equal resolved as reduce.
+Conflict in state 140 between rule 92 and token T_NotEqual resolved as reduce.
+Conflict in state 140 between rule 92 and token T_And resolved as reduce.
+Conflict in state 140 between rule 92 and token T_Or resolved as reduce.
+Conflict in state 140 between rule 92 and token '<' resolved as shift.
+Conflict in state 140 between rule 92 and token '>' resolved as shift.
+Conflict in state 140 between rule 92 and token '+' resolved as shift.
+Conflict in state 140 between rule 92 and token '-' resolved as shift.
+Conflict in state 140 between rule 92 and token '*' resolved as shift.
+Conflict in state 140 between rule 92 and token '/' resolved as shift.
+Conflict in state 140 between rule 92 and token '%' resolved as shift.
+Conflict in state 140 between rule 92 and token '[' resolved as shift.
+Conflict in state 140 between rule 92 and token '.' resolved as shift.
+Conflict in state 141 between rule 93 and token T_LessEqual resolved as shift.
+Conflict in state 141 between rule 93 and token T_GreaterEqual resolved as shift.
+Conflict in state 141 between rule 93 and token T_Equal resolved as shift.
+Conflict in state 141 between rule 93 and token T_NotEqual resolved as shift.
+Conflict in state 141 between rule 93 and token T_And resolved as reduce.
+Conflict in state 141 between rule 93 and token T_Or resolved as reduce.
+Conflict in state 141 between rule 93 and token '<' resolved as shift.
+Conflict in state 141 between rule 93 and token '>' resolved as shift.
+Conflict in state 141 between rule 93 and token '+' resolved as shift.
+Conflict in state 141 between rule 93 and token '-' resolved as shift.
+Conflict in state 141 between rule 93 and token '*' resolved as shift.
+Conflict in state 141 between rule 93 and token '/' resolved as shift.
+Conflict in state 141 between rule 93 and token '%' resolved as shift.
+Conflict in state 141 between rule 93 and token '[' resolved as shift.
+Conflict in state 141 between rule 93 and token '.' resolved as shift.
+Conflict in state 142 between rule 94 and token T_LessEqual resolved as shift.
+Conflict in state 142 between rule 94 and token T_GreaterEqual resolved as shift.
+Conflict in state 142 between rule 94 and token T_Equal resolved as shift.
+Conflict in state 142 between rule 94 and token T_NotEqual resolved as shift.
+Conflict in state 142 between rule 94 and token T_And resolved as shift.
+Conflict in state 142 between rule 94 and token T_Or resolved as reduce.
+Conflict in state 142 between rule 94 and token '<' resolved as shift.
+Conflict in state 142 between rule 94 and token '>' resolved as shift.
+Conflict in state 142 between rule 94 and token '+' resolved as shift.
+Conflict in state 142 between rule 94 and token '-' resolved as shift.
+Conflict in state 142 between rule 94 and token '*' resolved as shift.
+Conflict in state 142 between rule 94 and token '/' resolved as shift.
+Conflict in state 142 between rule 94 and token '%' resolved as shift.
+Conflict in state 142 between rule 94 and token '[' resolved as shift.
+Conflict in state 142 between rule 94 and token '.' resolved as shift.
+Conflict in state 143 between rule 87 and token T_LessEqual resolved as an error.
+Conflict in state 143 between rule 87 and token T_GreaterEqual resolved as an error.
+Conflict in state 143 between rule 87 and token T_Equal resolved as reduce.
+Conflict in state 143 between rule 87 and token T_NotEqual resolved as reduce.
+Conflict in state 143 between rule 87 and token T_And resolved as reduce.
+Conflict in state 143 between rule 87 and token T_Or resolved as reduce.
+Conflict in state 143 between rule 87 and token '<' resolved as an error.
+Conflict in state 143 between rule 87 and token '>' resolved as an error.
+Conflict in state 143 between rule 87 and token '+' resolved as shift.
+Conflict in state 143 between rule 87 and token '-' resolved as shift.
+Conflict in state 143 between rule 87 and token '*' resolved as shift.
+Conflict in state 143 between rule 87 and token '/' resolved as shift.
+Conflict in state 143 between rule 87 and token '%' resolved as shift.
+Conflict in state 143 between rule 87 and token '[' resolved as shift.
+Conflict in state 143 between rule 87 and token '.' resolved as shift.
+Conflict in state 144 between rule 89 and token T_LessEqual resolved as an error.
+Conflict in state 144 between rule 89 and token T_GreaterEqual resolved as an error.
+Conflict in state 144 between rule 89 and token T_Equal resolved as reduce.
+Conflict in state 144 between rule 89 and token T_NotEqual resolved as reduce.
+Conflict in state 144 between rule 89 and token T_And resolved as reduce.
+Conflict in state 144 between rule 89 and token T_Or resolved as reduce.
+Conflict in state 144 between rule 89 and token '<' resolved as an error.
+Conflict in state 144 between rule 89 and token '>' resolved as an error.
+Conflict in state 144 between rule 89 and token '+' resolved as shift.
+Conflict in state 144 between rule 89 and token '-' resolved as shift.
+Conflict in state 144 between rule 89 and token '*' resolved as shift.
+Conflict in state 144 between rule 89 and token '/' resolved as shift.
+Conflict in state 144 between rule 89 and token '%' resolved as shift.
+Conflict in state 144 between rule 89 and token '[' resolved as shift.
+Conflict in state 144 between rule 89 and token '.' resolved as shift.
+Conflict in state 145 between rule 81 and token T_LessEqual resolved as reduce.
+Conflict in state 145 between rule 81 and token T_GreaterEqual resolved as reduce.
+Conflict in state 145 between rule 81 and token T_Equal resolved as reduce.
+Conflict in state 145 between rule 81 and token T_NotEqual resolved as reduce.
+Conflict in state 145 between rule 81 and token T_And resolved as reduce.
+Conflict in state 145 between rule 81 and token T_Or resolved as reduce.
+Conflict in state 145 between rule 81 and token '<' resolved as reduce.
+Conflict in state 145 between rule 81 and token '>' resolved as reduce.
+Conflict in state 145 between rule 81 and token '+' resolved as reduce.
+Conflict in state 145 between rule 81 and token '-' resolved as reduce.
+Conflict in state 145 between rule 81 and token '*' resolved as shift.
+Conflict in state 145 between rule 81 and token '/' resolved as shift.
+Conflict in state 145 between rule 81 and token '%' resolved as shift.
+Conflict in state 145 between rule 81 and token '[' resolved as shift.
+Conflict in state 145 between rule 81 and token '.' resolved as shift.
+Conflict in state 146 between rule 82 and token T_LessEqual resolved as reduce.
+Conflict in state 146 between rule 82 and token T_GreaterEqual resolved as reduce.
+Conflict in state 146 between rule 82 and token T_Equal resolved as reduce.
+Conflict in state 146 between rule 82 and token T_NotEqual resolved as reduce.
+Conflict in state 146 between rule 82 and token T_And resolved as reduce.
+Conflict in state 146 between rule 82 and token T_Or resolved as reduce.
+Conflict in state 146 between rule 82 and token '<' resolved as reduce.
+Conflict in state 146 between rule 82 and token '>' resolved as reduce.
+Conflict in state 146 between rule 82 and token '+' resolved as reduce.
+Conflict in state 146 between rule 82 and token '-' resolved as reduce.
+Conflict in state 146 between rule 82 and token '*' resolved as shift.
+Conflict in state 146 between rule 82 and token '/' resolved as shift.
+Conflict in state 146 between rule 82 and token '%' resolved as shift.
+Conflict in state 146 between rule 82 and token '[' resolved as shift.
+Conflict in state 146 between rule 82 and token '.' resolved as shift.
+Conflict in state 147 between rule 83 and token T_LessEqual resolved as reduce.
+Conflict in state 147 between rule 83 and token T_GreaterEqual resolved as reduce.
+Conflict in state 147 between rule 83 and token T_Equal resolved as reduce.
+Conflict in state 147 between rule 83 and token T_NotEqual resolved as reduce.
+Conflict in state 147 between rule 83 and token T_And resolved as reduce.
+Conflict in state 147 between rule 83 and token T_Or resolved as reduce.
+Conflict in state 147 between rule 83 and token '<' resolved as reduce.
+Conflict in state 147 between rule 83 and token '>' resolved as reduce.
+Conflict in state 147 between rule 83 and token '+' resolved as reduce.
+Conflict in state 147 between rule 83 and token '-' resolved as reduce.
+Conflict in state 147 between rule 83 and token '*' resolved as reduce.
+Conflict in state 147 between rule 83 and token '/' resolved as reduce.
+Conflict in state 147 between rule 83 and token '%' resolved as reduce.
+Conflict in state 147 between rule 83 and token '[' resolved as shift.
+Conflict in state 147 between rule 83 and token '.' resolved as shift.
+Conflict in state 148 between rule 84 and token T_LessEqual resolved as reduce.
+Conflict in state 148 between rule 84 and token T_GreaterEqual resolved as reduce.
+Conflict in state 148 between rule 84 and token T_Equal resolved as reduce.
+Conflict in state 148 between rule 84 and token T_NotEqual resolved as reduce.
+Conflict in state 148 between rule 84 and token T_And resolved as reduce.
+Conflict in state 148 between rule 84 and token T_Or resolved as reduce.
+Conflict in state 148 between rule 84 and token '<' resolved as reduce.
+Conflict in state 148 between rule 84 and token '>' resolved as reduce.
+Conflict in state 148 between rule 84 and token '+' resolved as reduce.
+Conflict in state 148 between rule 84 and token '-' resolved as reduce.
+Conflict in state 148 between rule 84 and token '*' resolved as reduce.
+Conflict in state 148 between rule 84 and token '/' resolved as reduce.
+Conflict in state 148 between rule 84 and token '%' resolved as reduce.
+Conflict in state 148 between rule 84 and token '[' resolved as shift.
+Conflict in state 148 between rule 84 and token '.' resolved as shift.
+Conflict in state 149 between rule 85 and token T_LessEqual resolved as reduce.
+Conflict in state 149 between rule 85 and token T_GreaterEqual resolved as reduce.
+Conflict in state 149 between rule 85 and token T_Equal resolved as reduce.
+Conflict in state 149 between rule 85 and token T_NotEqual resolved as reduce.
+Conflict in state 149 between rule 85 and token T_And resolved as reduce.
+Conflict in state 149 between rule 85 and token T_Or resolved as reduce.
+Conflict in state 149 between rule 85 and token '<' resolved as reduce.
+Conflict in state 149 between rule 85 and token '>' resolved as reduce.
+Conflict in state 149 between rule 85 and token '+' resolved as reduce.
+Conflict in state 149 between rule 85 and token '-' resolved as reduce.
+Conflict in state 149 between rule 85 and token '*' resolved as reduce.
+Conflict in state 149 between rule 85 and token '/' resolved as reduce.
+Conflict in state 149 between rule 85 and token '%' resolved as reduce.
+Conflict in state 149 between rule 85 and token '[' resolved as shift.
+Conflict in state 149 between rule 85 and token '.' resolved as shift.
+Conflict in state 164 between rule 62 and token T_Else resolved as shift.
+
+Grammar
+rule 1    Program -> DeclList
+rule 2    DeclList -> DeclList Decl
+rule 3    DeclList ->		/* empty */
+rule 4    Decl -> VariableDecl
+rule 5    Decl -> ClassDefn
+rule 6    Decl -> FunctionDefn
+rule 7    Decl -> FunctionDecl
+rule 8    VariableDecl -> Variable ';'
+rule 9    VariableDecl -> error ';'
+rule 10   Variable -> Type T_Identifier
+rule 11   Type -> T_Int
+rule 12   Type -> T_Double
+rule 13   Type -> T_Bool
+rule 14   Type -> T_String
+rule 15   Type -> T_Void
+rule 16   Type -> T_Class T_Identifier
+rule 17   Type -> Type '[' ']'
+rule 18   FunctionDecl -> Type T_Identifier '(' Formals ')' ';'
+rule 19   Formals -> VariableList
+rule 20   Formals ->		/* empty */
+rule 21   VariableList -> VariableList ',' Variable
+rule 22   VariableList -> Variable
+rule 23   FunctionDefn -> Type T_Identifier '(' Formals ')' StmtBlock
+rule 24   FunctionDefn -> error '}'
+rule 25   ClassDefn -> T_Class T_Identifier OptExtends '{' FieldList '}'
+rule 26   OptExtends -> T_Extends T_Identifier
+rule 27   OptExtends ->		/* empty */
+rule 28   FieldList -> FieldList Field
+rule 29   FieldList ->		/* empty */
+rule 30   Field -> VariableDecl
+rule 31   Field -> FunctionDecl
+rule 32   Field -> FunctionDefn
+rule 33   StmtBlock -> '{' StmtList '}'
+rule 34   StmtList -> StmtList Stmt
+rule 35   StmtList ->		/* empty */
+rule 36   Stmt -> VariableDecl
+rule 37   Stmt -> SimpleStmt ';'
+rule 38   Stmt -> IfStmt
+rule 39   Stmt -> WhileStmt
+rule 40   Stmt -> ForStmt
+rule 41   Stmt -> SwitchStmt
+rule 42   Stmt -> ReturnStmt ';'
+rule 43   Stmt -> PrintStmt ';'
+rule 44   Stmt -> StmtBlock
+rule 45   Stmt -> BreakStmt ';'
+rule 46   SimpleStmt -> LValue '=' Expr
+rule 47   SimpleStmt -> Expr
+rule 48   SimpleStmt ->		/* empty */
+rule 49   LValue -> OptReceiver T_Identifier
+rule 50   LValue -> Expr '[' Expr ']'
+rule 51   OptReceiver -> Expr '.'
+rule 52   OptReceiver ->		/* empty */
+rule 53   Call -> OptReceiver T_Identifier '(' Actuals ')'
+rule 54   Actuals -> ExprList
+rule 55   Actuals ->		/* empty */
+rule 56   ExprList -> ExprList ',' Expr
+rule 57   ExprList -> Expr
+rule 58   ForStmt -> T_For '(' SimpleStmt ';' BoolExpr ';' SimpleStmt ')' Stmt
+rule 59   WhileStmt -> T_While '(' BoolExpr ')' Stmt
+rule 60   IfStmt -> T_If '(' BoolExpr ')' Stmt OptElse
+rule 61   OptElse -> T_Else Stmt
+rule 62   OptElse ->		/* empty */
+rule 63   SwitchStmt -> T_Switch '(' Expr ')' '{' CaseStmt CaseList DefaultStmt '}'
+rule 64   CaseList -> CaseList CaseStmt
+rule 65   CaseList ->		/* empty */
+rule 66   CaseStmt -> T_Case T_IntConstant ':' StmtList
+rule 67   DefaultStmt -> T_Default ':' StmtList
+rule 68   DefaultStmt ->		/* empty */
+rule 69   BreakStmt -> T_Break
+rule 70   ReturnStmt -> T_Return
+rule 71   ReturnStmt -> T_Return Expr
+rule 72   PrintStmt -> T_Print '(' ExprList ')'
+rule 73   BoolExpr -> Expr
+rule 74   Expr -> Constant
+rule 75   Expr -> LValue
+rule 76   Expr -> LValue T_PostPlus
+rule 77   Expr -> LValue T_PostMinus
+rule 78   Expr -> T_This
+rule 79   Expr -> Call
+rule 80   Expr -> '(' Expr ')'
+rule 81   Expr -> Expr '+' Expr
+rule 82   Expr -> Expr '-' Expr
+rule 83   Expr -> Expr '*' Expr
+rule 84   Expr -> Expr '/' Expr
+rule 85   Expr -> Expr '%' Expr
+rule 86   Expr -> '-' Expr
+rule 87   Expr -> Expr '<' Expr
+rule 88   Expr -> Expr T_LessEqual Expr
+rule 89   Expr -> Expr '>' Expr
+rule 90   Expr -> Expr T_GreaterEqual Expr
+rule 91   Expr -> Expr T_Equal Expr
+rule 92   Expr -> Expr T_NotEqual Expr
+rule 93   Expr -> Expr T_And Expr
+rule 94   Expr -> Expr T_Or Expr
+rule 95   Expr -> '!' Expr
+rule 96   Expr -> T_ReadInteger '(' ')'
+rule 97   Expr -> T_ReadLine '(' ')'
+rule 98   Expr -> T_New '(' T_Identifier ')'
+rule 99   Expr -> T_NewArray '(' Expr ',' Type ')'
+rule 100  Constant -> T_IntConstant
+rule 101  Constant -> T_DoubleConstant
+rule 102  Constant -> T_BoolConstant
+rule 103  Constant -> T_StringConstant
+rule 104  Constant -> T_Null
+
+Terminals, with rules where they appear
+
+$ (-1)
+'!' (33) 95
+'%' (37) 85
+'(' (40) 18 23 53 58 59 60 63 72 80 96 97 98 99
+')' (41) 18 23 53 58 59 60 63 72 80 96 97 98 99
+'*' (42) 83
+'+' (43) 81
+',' (44) 21 56 99
+'-' (45) 82 86
+'.' (46) 51
+'/' (47) 84
+':' (58) 66 67
+';' (59) 8 9 18 37 42 43 45 58
+'<' (60) 87
+'=' (61) 46
+'>' (62) 89
+'[' (91) 17 50
+']' (93) 17 50
+'{' (123) 25 33 63
+'}' (125) 24 25 33 63
+error (256) 9 24
+T_Void (257) 15
+T_Bool (258) 13
+T_Int (259) 11
+T_Double (260) 12
+T_String (261) 14
+T_Class (262) 16 25
+T_LessEqual (263) 88
+T_GreaterEqual (264) 90
+T_Equal (265) 91
+T_NotEqual (266) 92
+T_And (267) 93
+T_Or (268) 94
+T_Null (269) 104
+T_Extends (270) 26
+T_This (271) 78
+T_While (272) 59
+T_For (273) 58
+T_If (274) 60
+T_Else (275) 61
+T_Return (276) 70 71
+T_Identifier (277) 10 16 18 23 25 26 49 53 98
+T_StringConstant (278) 103
+T_IntConstant (279) 66 100
+T_DoubleConstant (280) 101
+T_BoolConstant (281) 102
+T_New (282) 98
+T_NewArray (283) 99
+T_Print (284) 72
+T_ReadInteger (285) 96
+T_ReadLine (286) 97
+T_PostPlus (287) 76
+T_PostMinus (288) 77
+T_Switch (289) 63
+T_Case (290) 66
+T_Default (291) 67
+T_Break (292) 69
+Lower_Than_Else (293)
+UMINUS (294)
+
+Nonterminals, with rules where they appear
+
+Program (60)
+    on left: 1
+DeclList (61)
+    on left: 2 3, on right: 1 2
+Decl (62)
+    on left: 4 5 6 7, on right: 2
+VariableDecl (63)
+    on left: 8 9, on right: 4 30 36
+Variable (64)
+    on left: 10, on right: 8 21 22
+Type (65)
+    on left: 11 12 13 14 15 16 17, on right: 10 17 18 23 99
+FunctionDecl (66)
+    on left: 18, on right: 7 31
+Formals (67)
+    on left: 19 20, on right: 18 23
+VariableList (68)
+    on left: 21 22, on right: 19 21
+FunctionDefn (69)
+    on left: 23 24, on right: 6 32
+ClassDefn (70)
+    on left: 25, on right: 5
+OptExtends (71)
+    on left: 26 27, on right: 25
+FieldList (72)
+    on left: 28 29, on right: 25 28
+Field (73)
+    on left: 30 31 32, on right: 28
+StmtBlock (74)
+    on left: 33, on right: 23 44
+StmtList (75)
+    on left: 34 35, on right: 33 34 66 67
+Stmt (76)
+    on left: 36 37 38 39 40 41 42 43 44 45, on right: 34 58 59 60 61
+SimpleStmt (77)
+    on left: 46 47 48, on right: 37 58
+LValue (78)
+    on left: 49 50, on right: 46 75 76 77
+OptReceiver (79)
+    on left: 51 52, on right: 49 53
+Call (80)
+    on left: 53, on right: 79
+Actuals (81)
+    on left: 54 55, on right: 53
+ExprList (82)
+    on left: 56 57, on right: 54 56 72
+ForStmt (83)
+    on left: 58, on right: 40
+WhileStmt (84)
+    on left: 59, on right: 39
+IfStmt (85)
+    on left: 60, on right: 38
+OptElse (86)
+    on left: 61 62, on right: 60
+SwitchStmt (87)
+    on left: 63, on right: 41
+CaseList (88)
+    on left: 64 65, on right: 63 64
+CaseStmt (89)
+    on left: 66, on right: 63 64
+DefaultStmt (90)
+    on left: 67 68, on right: 63
+BreakStmt (91)
+    on left: 69, on right: 45
+ReturnStmt (92)
+    on left: 70 71, on right: 42
+PrintStmt (93)
+    on left: 72, on right: 43
+BoolExpr (94)
+    on left: 73, on right: 58 59 60
+Expr (95)
+    on left: 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91
+    92 93 94 95 96 97 98 99, on right: 46 47 50 51 56 57 63 71 73 80
+    81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 99
+Constant (96)
+    on left: 100 101 102 103 104, on right: 74
+
+
+state 0
+
+    $default	reduce using rule 3 (DeclList)
+
+    Program	go to state 189
+    DeclList	go to state 1
+
+
+
+state 1
+
+    Program  ->  DeclList .   (rule 1)
+    DeclList  ->  DeclList . Decl   (rule 2)
+
+    error	shift, and go to state 2
+    T_Void	shift, and go to state 3
+    T_Bool	shift, and go to state 4
+    T_Int	shift, and go to state 5
+    T_Double	shift, and go to state 6
+    T_String	shift, and go to state 7
+    T_Class	shift, and go to state 8
+
+    $   	reduce using rule 1 (Program)
+
+    Decl	go to state 9
+    VariableDecl	go to state 10
+    Variable	go to state 11
+    Type	go to state 12
+    FunctionDecl	go to state 13
+    FunctionDefn	go to state 14
+    ClassDefn	go to state 15
+
+
+
+state 2
+
+    VariableDecl  ->  error . ';'   (rule 9)
+    FunctionDefn  ->  error . '}'   (rule 24)
+
+    ';' 	shift, and go to state 16
+    '}' 	shift, and go to state 17
+
+
+
+state 3
+
+    Type  ->  T_Void .   (rule 15)
+
+    $default	reduce using rule 15 (Type)
+
+
+
+state 4
+
+    Type  ->  T_Bool .   (rule 13)
+
+    $default	reduce using rule 13 (Type)
+
+
+
+state 5
+
+    Type  ->  T_Int .   (rule 11)
+
+    $default	reduce using rule 11 (Type)
+
+
+
+state 6
+
+    Type  ->  T_Double .   (rule 12)
+
+    $default	reduce using rule 12 (Type)
+
+
+
+state 7
+
+    Type  ->  T_String .   (rule 14)
+
+    $default	reduce using rule 14 (Type)
+
+
+
+state 8
+
+    Type  ->  T_Class . T_Identifier   (rule 16)
+    ClassDefn  ->  T_Class . T_Identifier OptExtends '{' FieldList '}'   (rule 25)
+
+    T_Identifier	shift, and go to state 18
+
+
+
+state 9
+
+    DeclList  ->  DeclList Decl .   (rule 2)
+
+    $default	reduce using rule 2 (DeclList)
+
+
+
+state 10
+
+    Decl  ->  VariableDecl .   (rule 4)
+
+    $default	reduce using rule 4 (Decl)
+
+
+
+state 11
+
+    VariableDecl  ->  Variable . ';'   (rule 8)
+
+    ';' 	shift, and go to state 19
+
+
+
+state 12
+
+    Variable  ->  Type . T_Identifier   (rule 10)
+    Type  ->  Type . '[' ']'   (rule 17)
+    FunctionDecl  ->  Type . T_Identifier '(' Formals ')' ';'   (rule 18)
+    FunctionDefn  ->  Type . T_Identifier '(' Formals ')' StmtBlock   (rule 23)
+
+    T_Identifier	shift, and go to state 20
+    '[' 	shift, and go to state 21
+
+
+
+state 13
+
+    Decl  ->  FunctionDecl .   (rule 7)
+
+    $default	reduce using rule 7 (Decl)
+
+
+
+state 14
+
+    Decl  ->  FunctionDefn .   (rule 6)
+
+    $default	reduce using rule 6 (Decl)
+
+
+
+state 15
+
+    Decl  ->  ClassDefn .   (rule 5)
+
+    $default	reduce using rule 5 (Decl)
+
+
+
+state 16
+
+    VariableDecl  ->  error ';' .   (rule 9)
+
+    $default	reduce using rule 9 (VariableDecl)
+
+
+
+state 17
+
+    FunctionDefn  ->  error '}' .   (rule 24)
+
+    $default	reduce using rule 24 (FunctionDefn)
+
+
+
+state 18
+
+    Type  ->  T_Class T_Identifier .   (rule 16)
+    ClassDefn  ->  T_Class T_Identifier . OptExtends '{' FieldList '}'   (rule 25)
+
+    T_Extends	shift, and go to state 22
+
+    '{' 	reduce using rule 27 (OptExtends)
+    $default	reduce using rule 16 (Type)
+
+    OptExtends	go to state 23
+
+
+
+state 19
+
+    VariableDecl  ->  Variable ';' .   (rule 8)
+
+    $default	reduce using rule 8 (VariableDecl)
+
+
+
+state 20
+
+    Variable  ->  Type T_Identifier .   (rule 10)
+    FunctionDecl  ->  Type T_Identifier . '(' Formals ')' ';'   (rule 18)
+    FunctionDefn  ->  Type T_Identifier . '(' Formals ')' StmtBlock   (rule 23)
+
+    '(' 	shift, and go to state 24
+
+    $default	reduce using rule 10 (Variable)
+
+
+
+state 21
+
+    Type  ->  Type '[' . ']'   (rule 17)
+
+    ']' 	shift, and go to state 25
+
+
+
+state 22
+
+    OptExtends  ->  T_Extends . T_Identifier   (rule 26)
+
+    T_Identifier	shift, and go to state 26
+
+
+
+state 23
+
+    ClassDefn  ->  T_Class T_Identifier OptExtends . '{' FieldList '}'   (rule 25)
+
+    '{' 	shift, and go to state 27
+
+
+
+state 24
+
+    FunctionDecl  ->  Type T_Identifier '(' . Formals ')' ';'   (rule 18)
+    FunctionDefn  ->  Type T_Identifier '(' . Formals ')' StmtBlock   (rule 23)
+
+    T_Void	shift, and go to state 3
+    T_Bool	shift, and go to state 4
+    T_Int	shift, and go to state 5
+    T_Double	shift, and go to state 6
+    T_String	shift, and go to state 7
+    T_Class	shift, and go to state 28
+
+    $default	reduce using rule 20 (Formals)
+
+    Variable	go to state 29
+    Type	go to state 30
+    Formals	go to state 31
+    VariableList	go to state 32
+
+
+
+state 25
+
+    Type  ->  Type '[' ']' .   (rule 17)
+
+    $default	reduce using rule 17 (Type)
+
+
+
+state 26
+
+    OptExtends  ->  T_Extends T_Identifier .   (rule 26)
+
+    $default	reduce using rule 26 (OptExtends)
+
+
+
+state 27
+
+    ClassDefn  ->  T_Class T_Identifier OptExtends '{' . FieldList '}'   (rule 25)
+
+    $default	reduce using rule 29 (FieldList)
+
+    FieldList	go to state 33
+
+
+
+state 28
+
+    Type  ->  T_Class . T_Identifier   (rule 16)
+
+    T_Identifier	shift, and go to state 34
+
+
+
+state 29
+
+    VariableList  ->  Variable .   (rule 22)
+
+    $default	reduce using rule 22 (VariableList)
+
+
+
+state 30
+
+    Variable  ->  Type . T_Identifier   (rule 10)
+    Type  ->  Type . '[' ']'   (rule 17)
+
+    T_Identifier	shift, and go to state 35
+    '[' 	shift, and go to state 21
+
+
+
+state 31
+
+    FunctionDecl  ->  Type T_Identifier '(' Formals . ')' ';'   (rule 18)
+    FunctionDefn  ->  Type T_Identifier '(' Formals . ')' StmtBlock   (rule 23)
+
+    ')' 	shift, and go to state 36
+
+
+
+state 32
+
+    Formals  ->  VariableList .   (rule 19)
+    VariableList  ->  VariableList . ',' Variable   (rule 21)
+
+    ',' 	shift, and go to state 37
+
+    $default	reduce using rule 19 (Formals)
+
+
+
+state 33
+
+    ClassDefn  ->  T_Class T_Identifier OptExtends '{' FieldList . '}'   (rule 25)
+    FieldList  ->  FieldList . Field   (rule 28)
+
+    error	shift, and go to state 2
+    T_Void	shift, and go to state 3
+    T_Bool	shift, and go to state 4
+    T_Int	shift, and go to state 5
+    T_Double	shift, and go to state 6
+    T_String	shift, and go to state 7
+    T_Class	shift, and go to state 28
+    '}' 	shift, and go to state 38
+
+    VariableDecl	go to state 39
+    Variable	go to state 11
+    Type	go to state 12
+    FunctionDecl	go to state 40
+    FunctionDefn	go to state 41
+    Field	go to state 42
+
+
+
+state 34
+
+    Type  ->  T_Class T_Identifier .   (rule 16)
+
+    $default	reduce using rule 16 (Type)
+
+
+
+state 35
+
+    Variable  ->  Type T_Identifier .   (rule 10)
+
+    $default	reduce using rule 10 (Variable)
+
+
+
+state 36
+
+    FunctionDecl  ->  Type T_Identifier '(' Formals ')' . ';'   (rule 18)
+    FunctionDefn  ->  Type T_Identifier '(' Formals ')' . StmtBlock   (rule 23)
+
+    ';' 	shift, and go to state 43
+    '{' 	shift, and go to state 44
+
+    StmtBlock	go to state 45
+
+
+
+state 37
+
+    VariableList  ->  VariableList ',' . Variable   (rule 21)
+
+    T_Void	shift, and go to state 3
+    T_Bool	shift, and go to state 4
+    T_Int	shift, and go to state 5
+    T_Double	shift, and go to state 6
+    T_String	shift, and go to state 7
+    T_Class	shift, and go to state 28
+
+    Variable	go to state 46
+    Type	go to state 30
+
+
+
+state 38
+
+    ClassDefn  ->  T_Class T_Identifier OptExtends '{' FieldList '}' .   (rule 25)
+
+    $default	reduce using rule 25 (ClassDefn)
+
+
+
+state 39
+
+    Field  ->  VariableDecl .   (rule 30)
+
+    $default	reduce using rule 30 (Field)
+
+
+
+state 40
+
+    Field  ->  FunctionDecl .   (rule 31)
+
+    $default	reduce using rule 31 (Field)
+
+
+
+state 41
+
+    Field  ->  FunctionDefn .   (rule 32)
+
+    $default	reduce using rule 32 (Field)
+
+
+
+state 42
+
+    FieldList  ->  FieldList Field .   (rule 28)
+
+    $default	reduce using rule 28 (FieldList)
+
+
+
+state 43
+
+    FunctionDecl  ->  Type T_Identifier '(' Formals ')' ';' .   (rule 18)
+
+    $default	reduce using rule 18 (FunctionDecl)
+
+
+
+state 44
+
+    StmtBlock  ->  '{' . StmtList '}'   (rule 33)
+
+    $default	reduce using rule 35 (StmtList)
+
+    StmtList	go to state 47
+
+
+
+state 45
+
+    FunctionDefn  ->  Type T_Identifier '(' Formals ')' StmtBlock .   (rule 23)
+
+    $default	reduce using rule 23 (FunctionDefn)
+
+
+
+state 46
+
+    VariableList  ->  VariableList ',' Variable .   (rule 21)
+
+    $default	reduce using rule 21 (VariableList)
+
+
+
+state 47
+
+    StmtBlock  ->  '{' StmtList . '}'   (rule 33)
+    StmtList  ->  StmtList . Stmt   (rule 34)
+
+    error	shift, and go to state 48
+    T_Void	shift, and go to state 3
+    T_Bool	shift, and go to state 4
+    T_Int	shift, and go to state 5
+    T_Double	shift, and go to state 6
+    T_String	shift, and go to state 7
+    T_Class	shift, and go to state 28
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_While	shift, and go to state 51
+    T_For	shift, and go to state 52
+    T_If	shift, and go to state 53
+    T_Return	shift, and go to state 54
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_Print	shift, and go to state 61
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    T_Switch	shift, and go to state 64
+    T_Break	shift, and go to state 65
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+    '}' 	shift, and go to state 69
+    '{' 	shift, and go to state 44
+
+    T_Identifier	reduce using rule 52 (OptReceiver)
+    ';' 	reduce using rule 48 (SimpleStmt)
+
+    VariableDecl	go to state 70
+    Variable	go to state 11
+    Type	go to state 30
+    StmtBlock	go to state 71
+    Stmt	go to state 72
+    SimpleStmt	go to state 73
+    LValue	go to state 74
+    OptReceiver	go to state 75
+    Call	go to state 76
+    ForStmt	go to state 77
+    WhileStmt	go to state 78
+    IfStmt	go to state 79
+    SwitchStmt	go to state 80
+    BreakStmt	go to state 81
+    ReturnStmt	go to state 82
+    PrintStmt	go to state 83
+    Expr	go to state 84
+    Constant	go to state 85
+
+
+
+state 48
+
+    VariableDecl  ->  error . ';'   (rule 9)
+
+    ';' 	shift, and go to state 16
+
+
+
+state 49
+
+    Constant  ->  T_Null .   (rule 104)
+
+    $default	reduce using rule 104 (Constant)
+
+
+
+state 50
+
+    Expr  ->  T_This .   (rule 78)
+
+    $default	reduce using rule 78 (Expr)
+
+
+
+state 51
+
+    WhileStmt  ->  T_While . '(' BoolExpr ')' Stmt   (rule 59)
+
+    '(' 	shift, and go to state 86
+
+
+
+state 52
+
+    ForStmt  ->  T_For . '(' SimpleStmt ';' BoolExpr ';' SimpleStmt ')' Stmt   (rule 58)
+
+    '(' 	shift, and go to state 87
+
+
+
+state 53
+
+    IfStmt  ->  T_If . '(' BoolExpr ')' Stmt OptElse   (rule 60)
+
+    '(' 	shift, and go to state 88
+
+
+
+state 54
+
+    ReturnStmt  ->  T_Return .   (rule 70)
+    ReturnStmt  ->  T_Return . Expr   (rule 71)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    ';' 	reduce using rule 70 (ReturnStmt)
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 90
+    Constant	go to state 85
+
+
+
+state 55
+
+    Constant  ->  T_StringConstant .   (rule 103)
+
+    $default	reduce using rule 103 (Constant)
+
+
+
+state 56
+
+    Constant  ->  T_IntConstant .   (rule 100)
+
+    $default	reduce using rule 100 (Constant)
+
+
+
+state 57
+
+    Constant  ->  T_DoubleConstant .   (rule 101)
+
+    $default	reduce using rule 101 (Constant)
+
+
+
+state 58
+
+    Constant  ->  T_BoolConstant .   (rule 102)
+
+    $default	reduce using rule 102 (Constant)
+
+
+
+state 59
+
+    Expr  ->  T_New . '(' T_Identifier ')'   (rule 98)
+
+    '(' 	shift, and go to state 91
+
+
+
+state 60
+
+    Expr  ->  T_NewArray . '(' Expr ',' Type ')'   (rule 99)
+
+    '(' 	shift, and go to state 92
+
+
+
+state 61
+
+    PrintStmt  ->  T_Print . '(' ExprList ')'   (rule 72)
+
+    '(' 	shift, and go to state 93
+
+
+
+state 62
+
+    Expr  ->  T_ReadInteger . '(' ')'   (rule 96)
+
+    '(' 	shift, and go to state 94
+
+
+
+state 63
+
+    Expr  ->  T_ReadLine . '(' ')'   (rule 97)
+
+    '(' 	shift, and go to state 95
+
+
+
+state 64
+
+    SwitchStmt  ->  T_Switch . '(' Expr ')' '{' CaseStmt CaseList DefaultStmt '}'   (rule 63)
+
+    '(' 	shift, and go to state 96
+
+
+
+state 65
+
+    BreakStmt  ->  T_Break .   (rule 69)
+
+    $default	reduce using rule 69 (BreakStmt)
+
+
+
+state 66
+
+    Expr  ->  '-' . Expr   (rule 86)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 97
+    Constant	go to state 85
+
+
+
+state 67
+
+    Expr  ->  '!' . Expr   (rule 95)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 98
+    Constant	go to state 85
+
+
+
+state 68
+
+    Expr  ->  '(' . Expr ')'   (rule 80)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 99
+    Constant	go to state 85
+
+
+
+state 69
+
+    StmtBlock  ->  '{' StmtList '}' .   (rule 33)
+
+    $default	reduce using rule 33 (StmtBlock)
+
+
+
+state 70
+
+    Stmt  ->  VariableDecl .   (rule 36)
+
+    $default	reduce using rule 36 (Stmt)
+
+
+
+state 71
+
+    Stmt  ->  StmtBlock .   (rule 44)
+
+    $default	reduce using rule 44 (Stmt)
+
+
+
+state 72
+
+    StmtList  ->  StmtList Stmt .   (rule 34)
+
+    $default	reduce using rule 34 (StmtList)
+
+
+
+state 73
+
+    Stmt  ->  SimpleStmt . ';'   (rule 37)
+
+    ';' 	shift, and go to state 100
+
+
+
+state 74
+
+    SimpleStmt  ->  LValue . '=' Expr   (rule 46)
+    Expr  ->  LValue .   (rule 75)
+    Expr  ->  LValue . T_PostPlus   (rule 76)
+    Expr  ->  LValue . T_PostMinus   (rule 77)
+
+    T_PostPlus	shift, and go to state 101
+    T_PostMinus	shift, and go to state 102
+    '=' 	shift, and go to state 103
+
+    $default	reduce using rule 75 (Expr)
+
+
+
+state 75
+
+    LValue  ->  OptReceiver . T_Identifier   (rule 49)
+    Call  ->  OptReceiver . T_Identifier '(' Actuals ')'   (rule 53)
+
+    T_Identifier	shift, and go to state 104
+
+
+
+state 76
+
+    Expr  ->  Call .   (rule 79)
+
+    $default	reduce using rule 79 (Expr)
+
+
+
+state 77
+
+    Stmt  ->  ForStmt .   (rule 40)
+
+    $default	reduce using rule 40 (Stmt)
+
+
+
+state 78
+
+    Stmt  ->  WhileStmt .   (rule 39)
+
+    $default	reduce using rule 39 (Stmt)
+
+
+
+state 79
+
+    Stmt  ->  IfStmt .   (rule 38)
+
+    $default	reduce using rule 38 (Stmt)
+
+
+
+state 80
+
+    Stmt  ->  SwitchStmt .   (rule 41)
+
+    $default	reduce using rule 41 (Stmt)
+
+
+
+state 81
+
+    Stmt  ->  BreakStmt . ';'   (rule 45)
+
+    ';' 	shift, and go to state 105
+
+
+
+state 82
+
+    Stmt  ->  ReturnStmt . ';'   (rule 42)
+
+    ';' 	shift, and go to state 106
+
+
+
+state 83
+
+    Stmt  ->  PrintStmt . ';'   (rule 43)
+
+    ';' 	shift, and go to state 107
+
+
+
+state 84
+
+    SimpleStmt  ->  Expr .   (rule 47)
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    T_LessEqual	shift, and go to state 108
+    T_GreaterEqual	shift, and go to state 109
+    T_Equal	shift, and go to state 110
+    T_NotEqual	shift, and go to state 111
+    T_And	shift, and go to state 112
+    T_Or	shift, and go to state 113
+    '<' 	shift, and go to state 114
+    '>' 	shift, and go to state 115
+    '+' 	shift, and go to state 116
+    '-' 	shift, and go to state 117
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    $default	reduce using rule 47 (SimpleStmt)
+
+
+
+state 85
+
+    Expr  ->  Constant .   (rule 74)
+
+    $default	reduce using rule 74 (Expr)
+
+
+
+state 86
+
+    WhileStmt  ->  T_While '(' . BoolExpr ')' Stmt   (rule 59)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    BoolExpr	go to state 123
+    Expr	go to state 124
+    Constant	go to state 85
+
+
+
+state 87
+
+    ForStmt  ->  T_For '(' . SimpleStmt ';' BoolExpr ';' SimpleStmt ')' Stmt   (rule 58)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    T_Identifier	reduce using rule 52 (OptReceiver)
+    $default	reduce using rule 48 (SimpleStmt)
+
+    SimpleStmt	go to state 125
+    LValue	go to state 74
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 84
+    Constant	go to state 85
+
+
+
+state 88
+
+    IfStmt  ->  T_If '(' . BoolExpr ')' Stmt OptElse   (rule 60)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    BoolExpr	go to state 126
+    Expr	go to state 124
+    Constant	go to state 85
+
+
+
+state 89
+
+    Expr  ->  LValue .   (rule 75)
+    Expr  ->  LValue . T_PostPlus   (rule 76)
+    Expr  ->  LValue . T_PostMinus   (rule 77)
+
+    T_PostPlus	shift, and go to state 101
+    T_PostMinus	shift, and go to state 102
+
+    $default	reduce using rule 75 (Expr)
+
+
+
+state 90
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    ReturnStmt  ->  T_Return Expr .   (rule 71)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    T_LessEqual	shift, and go to state 108
+    T_GreaterEqual	shift, and go to state 109
+    T_Equal	shift, and go to state 110
+    T_NotEqual	shift, and go to state 111
+    T_And	shift, and go to state 112
+    T_Or	shift, and go to state 113
+    '<' 	shift, and go to state 114
+    '>' 	shift, and go to state 115
+    '+' 	shift, and go to state 116
+    '-' 	shift, and go to state 117
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    $default	reduce using rule 71 (ReturnStmt)
+
+
+
+state 91
+
+    Expr  ->  T_New '(' . T_Identifier ')'   (rule 98)
+
+    T_Identifier	shift, and go to state 127
+
+
+
+state 92
+
+    Expr  ->  T_NewArray '(' . Expr ',' Type ')'   (rule 99)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 128
+    Constant	go to state 85
+
+
+
+state 93
+
+    PrintStmt  ->  T_Print '(' . ExprList ')'   (rule 72)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    ExprList	go to state 129
+    Expr	go to state 130
+    Constant	go to state 85
+
+
+
+state 94
+
+    Expr  ->  T_ReadInteger '(' . ')'   (rule 96)
+
+    ')' 	shift, and go to state 131
+
+
+
+state 95
+
+    Expr  ->  T_ReadLine '(' . ')'   (rule 97)
+
+    ')' 	shift, and go to state 132
+
+
+
+state 96
+
+    SwitchStmt  ->  T_Switch '(' . Expr ')' '{' CaseStmt CaseList DefaultStmt '}'   (rule 63)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 133
+    Constant	go to state 85
+
+
+
+state 97
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  '-' Expr .   (rule 86)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    $default	reduce using rule 86 (Expr)
+
+
+
+state 98
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+    Expr  ->  '!' Expr .   (rule 95)
+
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    $default	reduce using rule 95 (Expr)
+
+
+
+state 99
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  '(' Expr . ')'   (rule 80)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    T_LessEqual	shift, and go to state 108
+    T_GreaterEqual	shift, and go to state 109
+    T_Equal	shift, and go to state 110
+    T_NotEqual	shift, and go to state 111
+    T_And	shift, and go to state 112
+    T_Or	shift, and go to state 113
+    '<' 	shift, and go to state 114
+    '>' 	shift, and go to state 115
+    '+' 	shift, and go to state 116
+    '-' 	shift, and go to state 117
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+    ')' 	shift, and go to state 134
+
+
+
+state 100
+
+    Stmt  ->  SimpleStmt ';' .   (rule 37)
+
+    $default	reduce using rule 37 (Stmt)
+
+
+
+state 101
+
+    Expr  ->  LValue T_PostPlus .   (rule 76)
+
+    $default	reduce using rule 76 (Expr)
+
+
+
+state 102
+
+    Expr  ->  LValue T_PostMinus .   (rule 77)
+
+    $default	reduce using rule 77 (Expr)
+
+
+
+state 103
+
+    SimpleStmt  ->  LValue '=' . Expr   (rule 46)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 135
+    Constant	go to state 85
+
+
+
+state 104
+
+    LValue  ->  OptReceiver T_Identifier .   (rule 49)
+    Call  ->  OptReceiver T_Identifier . '(' Actuals ')'   (rule 53)
+
+    '(' 	shift, and go to state 136
+
+    $default	reduce using rule 49 (LValue)
+
+
+
+state 105
+
+    Stmt  ->  BreakStmt ';' .   (rule 45)
+
+    $default	reduce using rule 45 (Stmt)
+
+
+
+state 106
+
+    Stmt  ->  ReturnStmt ';' .   (rule 42)
+
+    $default	reduce using rule 42 (Stmt)
+
+
+
+state 107
+
+    Stmt  ->  PrintStmt ';' .   (rule 43)
+
+    $default	reduce using rule 43 (Stmt)
+
+
+
+state 108
+
+    Expr  ->  Expr T_LessEqual . Expr   (rule 88)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 137
+    Constant	go to state 85
+
+
+
+state 109
+
+    Expr  ->  Expr T_GreaterEqual . Expr   (rule 90)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 138
+    Constant	go to state 85
+
+
+
+state 110
+
+    Expr  ->  Expr T_Equal . Expr   (rule 91)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 139
+    Constant	go to state 85
+
+
+
+state 111
+
+    Expr  ->  Expr T_NotEqual . Expr   (rule 92)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 140
+    Constant	go to state 85
+
+
+
+state 112
+
+    Expr  ->  Expr T_And . Expr   (rule 93)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 141
+    Constant	go to state 85
+
+
+
+state 113
+
+    Expr  ->  Expr T_Or . Expr   (rule 94)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 142
+    Constant	go to state 85
+
+
+
+state 114
+
+    Expr  ->  Expr '<' . Expr   (rule 87)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 143
+    Constant	go to state 85
+
+
+
+state 115
+
+    Expr  ->  Expr '>' . Expr   (rule 89)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 144
+    Constant	go to state 85
+
+
+
+state 116
+
+    Expr  ->  Expr '+' . Expr   (rule 81)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 145
+    Constant	go to state 85
+
+
+
+state 117
+
+    Expr  ->  Expr '-' . Expr   (rule 82)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 146
+    Constant	go to state 85
+
+
+
+state 118
+
+    Expr  ->  Expr '*' . Expr   (rule 83)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 147
+    Constant	go to state 85
+
+
+
+state 119
+
+    Expr  ->  Expr '/' . Expr   (rule 84)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 148
+    Constant	go to state 85
+
+
+
+state 120
+
+    Expr  ->  Expr '%' . Expr   (rule 85)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 149
+    Constant	go to state 85
+
+
+
+state 121
+
+    LValue  ->  Expr '[' . Expr ']'   (rule 50)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 150
+    Constant	go to state 85
+
+
+
+state 122
+
+    OptReceiver  ->  Expr '.' .   (rule 51)
+
+    $default	reduce using rule 51 (OptReceiver)
+
+
+
+state 123
+
+    WhileStmt  ->  T_While '(' BoolExpr . ')' Stmt   (rule 59)
+
+    ')' 	shift, and go to state 151
+
+
+
+state 124
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    BoolExpr  ->  Expr .   (rule 73)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    T_LessEqual	shift, and go to state 108
+    T_GreaterEqual	shift, and go to state 109
+    T_Equal	shift, and go to state 110
+    T_NotEqual	shift, and go to state 111
+    T_And	shift, and go to state 112
+    T_Or	shift, and go to state 113
+    '<' 	shift, and go to state 114
+    '>' 	shift, and go to state 115
+    '+' 	shift, and go to state 116
+    '-' 	shift, and go to state 117
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    $default	reduce using rule 73 (BoolExpr)
+
+
+
+state 125
+
+    ForStmt  ->  T_For '(' SimpleStmt . ';' BoolExpr ';' SimpleStmt ')' Stmt   (rule 58)
+
+    ';' 	shift, and go to state 152
+
+
+
+state 126
+
+    IfStmt  ->  T_If '(' BoolExpr . ')' Stmt OptElse   (rule 60)
+
+    ')' 	shift, and go to state 153
+
+
+
+state 127
+
+    Expr  ->  T_New '(' T_Identifier . ')'   (rule 98)
+
+    ')' 	shift, and go to state 154
+
+
+
+state 128
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+    Expr  ->  T_NewArray '(' Expr . ',' Type ')'   (rule 99)
+
+    T_LessEqual	shift, and go to state 108
+    T_GreaterEqual	shift, and go to state 109
+    T_Equal	shift, and go to state 110
+    T_NotEqual	shift, and go to state 111
+    T_And	shift, and go to state 112
+    T_Or	shift, and go to state 113
+    '<' 	shift, and go to state 114
+    '>' 	shift, and go to state 115
+    '+' 	shift, and go to state 116
+    '-' 	shift, and go to state 117
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+    ',' 	shift, and go to state 155
+
+
+
+state 129
+
+    ExprList  ->  ExprList . ',' Expr   (rule 56)
+    PrintStmt  ->  T_Print '(' ExprList . ')'   (rule 72)
+
+    ')' 	shift, and go to state 156
+    ',' 	shift, and go to state 157
+
+
+
+state 130
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    ExprList  ->  Expr .   (rule 57)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    T_LessEqual	shift, and go to state 108
+    T_GreaterEqual	shift, and go to state 109
+    T_Equal	shift, and go to state 110
+    T_NotEqual	shift, and go to state 111
+    T_And	shift, and go to state 112
+    T_Or	shift, and go to state 113
+    '<' 	shift, and go to state 114
+    '>' 	shift, and go to state 115
+    '+' 	shift, and go to state 116
+    '-' 	shift, and go to state 117
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    $default	reduce using rule 57 (ExprList)
+
+
+
+state 131
+
+    Expr  ->  T_ReadInteger '(' ')' .   (rule 96)
+
+    $default	reduce using rule 96 (Expr)
+
+
+
+state 132
+
+    Expr  ->  T_ReadLine '(' ')' .   (rule 97)
+
+    $default	reduce using rule 97 (Expr)
+
+
+
+state 133
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    SwitchStmt  ->  T_Switch '(' Expr . ')' '{' CaseStmt CaseList DefaultStmt '}'   (rule 63)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    T_LessEqual	shift, and go to state 108
+    T_GreaterEqual	shift, and go to state 109
+    T_Equal	shift, and go to state 110
+    T_NotEqual	shift, and go to state 111
+    T_And	shift, and go to state 112
+    T_Or	shift, and go to state 113
+    '<' 	shift, and go to state 114
+    '>' 	shift, and go to state 115
+    '+' 	shift, and go to state 116
+    '-' 	shift, and go to state 117
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+    ')' 	shift, and go to state 158
+
+
+
+state 134
+
+    Expr  ->  '(' Expr ')' .   (rule 80)
+
+    $default	reduce using rule 80 (Expr)
+
+
+
+state 135
+
+    SimpleStmt  ->  LValue '=' Expr .   (rule 46)
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    T_LessEqual	shift, and go to state 108
+    T_GreaterEqual	shift, and go to state 109
+    T_Equal	shift, and go to state 110
+    T_NotEqual	shift, and go to state 111
+    T_And	shift, and go to state 112
+    T_Or	shift, and go to state 113
+    '<' 	shift, and go to state 114
+    '>' 	shift, and go to state 115
+    '+' 	shift, and go to state 116
+    '-' 	shift, and go to state 117
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    $default	reduce using rule 46 (SimpleStmt)
+
+
+
+state 136
+
+    Call  ->  OptReceiver T_Identifier '(' . Actuals ')'   (rule 53)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    ')' 	reduce using rule 55 (Actuals)
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Actuals	go to state 159
+    ExprList	go to state 160
+    Expr	go to state 130
+    Constant	go to state 85
+
+
+
+state 137
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr T_LessEqual Expr .   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    '+' 	shift, and go to state 116
+    '-' 	shift, and go to state 117
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    T_LessEqual	error (nonassociative)
+    T_GreaterEqual	error (nonassociative)
+    '<' 	error (nonassociative)
+    '>' 	error (nonassociative)
+
+    $default	reduce using rule 88 (Expr)
+
+
+
+state 138
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr T_GreaterEqual Expr .   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    '+' 	shift, and go to state 116
+    '-' 	shift, and go to state 117
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    T_LessEqual	error (nonassociative)
+    T_GreaterEqual	error (nonassociative)
+    '<' 	error (nonassociative)
+    '>' 	error (nonassociative)
+
+    $default	reduce using rule 90 (Expr)
+
+
+
+state 139
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr T_Equal Expr .   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    T_LessEqual	shift, and go to state 108
+    T_GreaterEqual	shift, and go to state 109
+    '<' 	shift, and go to state 114
+    '>' 	shift, and go to state 115
+    '+' 	shift, and go to state 116
+    '-' 	shift, and go to state 117
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    $default	reduce using rule 91 (Expr)
+
+
+
+state 140
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr T_NotEqual Expr .   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    T_LessEqual	shift, and go to state 108
+    T_GreaterEqual	shift, and go to state 109
+    '<' 	shift, and go to state 114
+    '>' 	shift, and go to state 115
+    '+' 	shift, and go to state 116
+    '-' 	shift, and go to state 117
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    $default	reduce using rule 92 (Expr)
+
+
+
+state 141
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr T_And Expr .   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    T_LessEqual	shift, and go to state 108
+    T_GreaterEqual	shift, and go to state 109
+    T_Equal	shift, and go to state 110
+    T_NotEqual	shift, and go to state 111
+    '<' 	shift, and go to state 114
+    '>' 	shift, and go to state 115
+    '+' 	shift, and go to state 116
+    '-' 	shift, and go to state 117
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    $default	reduce using rule 93 (Expr)
+
+
+
+state 142
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+    Expr  ->  Expr T_Or Expr .   (rule 94)
+
+    T_LessEqual	shift, and go to state 108
+    T_GreaterEqual	shift, and go to state 109
+    T_Equal	shift, and go to state 110
+    T_NotEqual	shift, and go to state 111
+    T_And	shift, and go to state 112
+    '<' 	shift, and go to state 114
+    '>' 	shift, and go to state 115
+    '+' 	shift, and go to state 116
+    '-' 	shift, and go to state 117
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    $default	reduce using rule 94 (Expr)
+
+
+
+state 143
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr '<' Expr .   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    '+' 	shift, and go to state 116
+    '-' 	shift, and go to state 117
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    T_LessEqual	error (nonassociative)
+    T_GreaterEqual	error (nonassociative)
+    '<' 	error (nonassociative)
+    '>' 	error (nonassociative)
+
+    $default	reduce using rule 87 (Expr)
+
+
+
+state 144
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr '>' Expr .   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    '+' 	shift, and go to state 116
+    '-' 	shift, and go to state 117
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    T_LessEqual	error (nonassociative)
+    T_GreaterEqual	error (nonassociative)
+    '<' 	error (nonassociative)
+    '>' 	error (nonassociative)
+
+    $default	reduce using rule 89 (Expr)
+
+
+
+state 145
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr '+' Expr .   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    $default	reduce using rule 81 (Expr)
+
+
+
+state 146
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr '-' Expr .   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    $default	reduce using rule 82 (Expr)
+
+
+
+state 147
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr '*' Expr .   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    $default	reduce using rule 83 (Expr)
+
+
+
+state 148
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr '/' Expr .   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    $default	reduce using rule 84 (Expr)
+
+
+
+state 149
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr '%' Expr .   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    $default	reduce using rule 85 (Expr)
+
+
+
+state 150
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    LValue  ->  Expr '[' Expr . ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    T_LessEqual	shift, and go to state 108
+    T_GreaterEqual	shift, and go to state 109
+    T_Equal	shift, and go to state 110
+    T_NotEqual	shift, and go to state 111
+    T_And	shift, and go to state 112
+    T_Or	shift, and go to state 113
+    '<' 	shift, and go to state 114
+    '>' 	shift, and go to state 115
+    '+' 	shift, and go to state 116
+    '-' 	shift, and go to state 117
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+    ']' 	shift, and go to state 161
+
+
+
+state 151
+
+    WhileStmt  ->  T_While '(' BoolExpr ')' . Stmt   (rule 59)
+
+    error	shift, and go to state 48
+    T_Void	shift, and go to state 3
+    T_Bool	shift, and go to state 4
+    T_Int	shift, and go to state 5
+    T_Double	shift, and go to state 6
+    T_String	shift, and go to state 7
+    T_Class	shift, and go to state 28
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_While	shift, and go to state 51
+    T_For	shift, and go to state 52
+    T_If	shift, and go to state 53
+    T_Return	shift, and go to state 54
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_Print	shift, and go to state 61
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    T_Switch	shift, and go to state 64
+    T_Break	shift, and go to state 65
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+    '{' 	shift, and go to state 44
+
+    T_Identifier	reduce using rule 52 (OptReceiver)
+    ';' 	reduce using rule 48 (SimpleStmt)
+
+    VariableDecl	go to state 70
+    Variable	go to state 11
+    Type	go to state 30
+    StmtBlock	go to state 71
+    Stmt	go to state 162
+    SimpleStmt	go to state 73
+    LValue	go to state 74
+    OptReceiver	go to state 75
+    Call	go to state 76
+    ForStmt	go to state 77
+    WhileStmt	go to state 78
+    IfStmt	go to state 79
+    SwitchStmt	go to state 80
+    BreakStmt	go to state 81
+    ReturnStmt	go to state 82
+    PrintStmt	go to state 83
+    Expr	go to state 84
+    Constant	go to state 85
+
+
+
+state 152
+
+    ForStmt  ->  T_For '(' SimpleStmt ';' . BoolExpr ';' SimpleStmt ')' Stmt   (rule 58)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    BoolExpr	go to state 163
+    Expr	go to state 124
+    Constant	go to state 85
+
+
+
+state 153
+
+    IfStmt  ->  T_If '(' BoolExpr ')' . Stmt OptElse   (rule 60)
+
+    error	shift, and go to state 48
+    T_Void	shift, and go to state 3
+    T_Bool	shift, and go to state 4
+    T_Int	shift, and go to state 5
+    T_Double	shift, and go to state 6
+    T_String	shift, and go to state 7
+    T_Class	shift, and go to state 28
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_While	shift, and go to state 51
+    T_For	shift, and go to state 52
+    T_If	shift, and go to state 53
+    T_Return	shift, and go to state 54
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_Print	shift, and go to state 61
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    T_Switch	shift, and go to state 64
+    T_Break	shift, and go to state 65
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+    '{' 	shift, and go to state 44
+
+    T_Identifier	reduce using rule 52 (OptReceiver)
+    ';' 	reduce using rule 48 (SimpleStmt)
+
+    VariableDecl	go to state 70
+    Variable	go to state 11
+    Type	go to state 30
+    StmtBlock	go to state 71
+    Stmt	go to state 164
+    SimpleStmt	go to state 73
+    LValue	go to state 74
+    OptReceiver	go to state 75
+    Call	go to state 76
+    ForStmt	go to state 77
+    WhileStmt	go to state 78
+    IfStmt	go to state 79
+    SwitchStmt	go to state 80
+    BreakStmt	go to state 81
+    ReturnStmt	go to state 82
+    PrintStmt	go to state 83
+    Expr	go to state 84
+    Constant	go to state 85
+
+
+
+state 154
+
+    Expr  ->  T_New '(' T_Identifier ')' .   (rule 98)
+
+    $default	reduce using rule 98 (Expr)
+
+
+
+state 155
+
+    Expr  ->  T_NewArray '(' Expr ',' . Type ')'   (rule 99)
+
+    T_Void	shift, and go to state 3
+    T_Bool	shift, and go to state 4
+    T_Int	shift, and go to state 5
+    T_Double	shift, and go to state 6
+    T_String	shift, and go to state 7
+    T_Class	shift, and go to state 28
+
+    Type	go to state 165
+
+
+
+state 156
+
+    PrintStmt  ->  T_Print '(' ExprList ')' .   (rule 72)
+
+    $default	reduce using rule 72 (PrintStmt)
+
+
+
+state 157
+
+    ExprList  ->  ExprList ',' . Expr   (rule 56)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    $default	reduce using rule 52 (OptReceiver)
+
+    LValue	go to state 89
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 166
+    Constant	go to state 85
+
+
+
+state 158
+
+    SwitchStmt  ->  T_Switch '(' Expr ')' . '{' CaseStmt CaseList DefaultStmt '}'   (rule 63)
+
+    '{' 	shift, and go to state 167
+
+
+
+state 159
+
+    Call  ->  OptReceiver T_Identifier '(' Actuals . ')'   (rule 53)
+
+    ')' 	shift, and go to state 168
+
+
+
+state 160
+
+    Actuals  ->  ExprList .   (rule 54)
+    ExprList  ->  ExprList . ',' Expr   (rule 56)
+
+    ',' 	shift, and go to state 157
+
+    $default	reduce using rule 54 (Actuals)
+
+
+
+state 161
+
+    LValue  ->  Expr '[' Expr ']' .   (rule 50)
+
+    $default	reduce using rule 50 (LValue)
+
+
+
+state 162
+
+    WhileStmt  ->  T_While '(' BoolExpr ')' Stmt .   (rule 59)
+
+    $default	reduce using rule 59 (WhileStmt)
+
+
+
+state 163
+
+    ForStmt  ->  T_For '(' SimpleStmt ';' BoolExpr . ';' SimpleStmt ')' Stmt   (rule 58)
+
+    ';' 	shift, and go to state 169
+
+
+
+state 164
+
+    IfStmt  ->  T_If '(' BoolExpr ')' Stmt . OptElse   (rule 60)
+
+    T_Else	shift, and go to state 170
+
+    $default	reduce using rule 62 (OptElse)
+
+    OptElse	go to state 171
+
+
+
+state 165
+
+    Type  ->  Type . '[' ']'   (rule 17)
+    Expr  ->  T_NewArray '(' Expr ',' Type . ')'   (rule 99)
+
+    '[' 	shift, and go to state 21
+    ')' 	shift, and go to state 172
+
+
+
+state 166
+
+    LValue  ->  Expr . '[' Expr ']'   (rule 50)
+    OptReceiver  ->  Expr . '.'   (rule 51)
+    ExprList  ->  ExprList ',' Expr .   (rule 56)
+    Expr  ->  Expr . '+' Expr   (rule 81)
+    Expr  ->  Expr . '-' Expr   (rule 82)
+    Expr  ->  Expr . '*' Expr   (rule 83)
+    Expr  ->  Expr . '/' Expr   (rule 84)
+    Expr  ->  Expr . '%' Expr   (rule 85)
+    Expr  ->  Expr . '<' Expr   (rule 87)
+    Expr  ->  Expr . T_LessEqual Expr   (rule 88)
+    Expr  ->  Expr . '>' Expr   (rule 89)
+    Expr  ->  Expr . T_GreaterEqual Expr   (rule 90)
+    Expr  ->  Expr . T_Equal Expr   (rule 91)
+    Expr  ->  Expr . T_NotEqual Expr   (rule 92)
+    Expr  ->  Expr . T_And Expr   (rule 93)
+    Expr  ->  Expr . T_Or Expr   (rule 94)
+
+    T_LessEqual	shift, and go to state 108
+    T_GreaterEqual	shift, and go to state 109
+    T_Equal	shift, and go to state 110
+    T_NotEqual	shift, and go to state 111
+    T_And	shift, and go to state 112
+    T_Or	shift, and go to state 113
+    '<' 	shift, and go to state 114
+    '>' 	shift, and go to state 115
+    '+' 	shift, and go to state 116
+    '-' 	shift, and go to state 117
+    '*' 	shift, and go to state 118
+    '/' 	shift, and go to state 119
+    '%' 	shift, and go to state 120
+    '[' 	shift, and go to state 121
+    '.' 	shift, and go to state 122
+
+    $default	reduce using rule 56 (ExprList)
+
+
+
+state 167
+
+    SwitchStmt  ->  T_Switch '(' Expr ')' '{' . CaseStmt CaseList DefaultStmt '}'   (rule 63)
+
+    T_Case	shift, and go to state 173
+
+    CaseStmt	go to state 174
+
+
+
+state 168
+
+    Call  ->  OptReceiver T_Identifier '(' Actuals ')' .   (rule 53)
+
+    $default	reduce using rule 53 (Call)
+
+
+
+state 169
+
+    ForStmt  ->  T_For '(' SimpleStmt ';' BoolExpr ';' . SimpleStmt ')' Stmt   (rule 58)
+
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+
+    T_Identifier	reduce using rule 52 (OptReceiver)
+    $default	reduce using rule 48 (SimpleStmt)
+
+    SimpleStmt	go to state 175
+    LValue	go to state 74
+    OptReceiver	go to state 75
+    Call	go to state 76
+    Expr	go to state 84
+    Constant	go to state 85
+
+
+
+state 170
+
+    OptElse  ->  T_Else . Stmt   (rule 61)
+
+    error	shift, and go to state 48
+    T_Void	shift, and go to state 3
+    T_Bool	shift, and go to state 4
+    T_Int	shift, and go to state 5
+    T_Double	shift, and go to state 6
+    T_String	shift, and go to state 7
+    T_Class	shift, and go to state 28
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_While	shift, and go to state 51
+    T_For	shift, and go to state 52
+    T_If	shift, and go to state 53
+    T_Return	shift, and go to state 54
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_Print	shift, and go to state 61
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    T_Switch	shift, and go to state 64
+    T_Break	shift, and go to state 65
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+    '{' 	shift, and go to state 44
+
+    T_Identifier	reduce using rule 52 (OptReceiver)
+    ';' 	reduce using rule 48 (SimpleStmt)
+
+    VariableDecl	go to state 70
+    Variable	go to state 11
+    Type	go to state 30
+    StmtBlock	go to state 71
+    Stmt	go to state 176
+    SimpleStmt	go to state 73
+    LValue	go to state 74
+    OptReceiver	go to state 75
+    Call	go to state 76
+    ForStmt	go to state 77
+    WhileStmt	go to state 78
+    IfStmt	go to state 79
+    SwitchStmt	go to state 80
+    BreakStmt	go to state 81
+    ReturnStmt	go to state 82
+    PrintStmt	go to state 83
+    Expr	go to state 84
+    Constant	go to state 85
+
+
+
+state 171
+
+    IfStmt  ->  T_If '(' BoolExpr ')' Stmt OptElse .   (rule 60)
+
+    $default	reduce using rule 60 (IfStmt)
+
+
+
+state 172
+
+    Expr  ->  T_NewArray '(' Expr ',' Type ')' .   (rule 99)
+
+    $default	reduce using rule 99 (Expr)
+
+
+
+state 173
+
+    CaseStmt  ->  T_Case . T_IntConstant ':' StmtList   (rule 66)
+
+    T_IntConstant	shift, and go to state 177
+
+
+
+state 174
+
+    SwitchStmt  ->  T_Switch '(' Expr ')' '{' CaseStmt . CaseList DefaultStmt '}'   (rule 63)
+
+    $default	reduce using rule 65 (CaseList)
+
+    CaseList	go to state 178
+
+
+
+state 175
+
+    ForStmt  ->  T_For '(' SimpleStmt ';' BoolExpr ';' SimpleStmt . ')' Stmt   (rule 58)
+
+    ')' 	shift, and go to state 179
+
+
+
+state 176
+
+    OptElse  ->  T_Else Stmt .   (rule 61)
+
+    $default	reduce using rule 61 (OptElse)
+
+
+
+state 177
+
+    CaseStmt  ->  T_Case T_IntConstant . ':' StmtList   (rule 66)
+
+    ':' 	shift, and go to state 180
+
+
+
+state 178
+
+    SwitchStmt  ->  T_Switch '(' Expr ')' '{' CaseStmt CaseList . DefaultStmt '}'   (rule 63)
+    CaseList  ->  CaseList . CaseStmt   (rule 64)
+
+    T_Case	shift, and go to state 173
+    T_Default	shift, and go to state 181
+
+    $default	reduce using rule 68 (DefaultStmt)
+
+    CaseStmt	go to state 182
+    DefaultStmt	go to state 183
+
+
+
+state 179
+
+    ForStmt  ->  T_For '(' SimpleStmt ';' BoolExpr ';' SimpleStmt ')' . Stmt   (rule 58)
+
+    error	shift, and go to state 48
+    T_Void	shift, and go to state 3
+    T_Bool	shift, and go to state 4
+    T_Int	shift, and go to state 5
+    T_Double	shift, and go to state 6
+    T_String	shift, and go to state 7
+    T_Class	shift, and go to state 28
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_While	shift, and go to state 51
+    T_For	shift, and go to state 52
+    T_If	shift, and go to state 53
+    T_Return	shift, and go to state 54
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_Print	shift, and go to state 61
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    T_Switch	shift, and go to state 64
+    T_Break	shift, and go to state 65
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+    '{' 	shift, and go to state 44
+
+    T_Identifier	reduce using rule 52 (OptReceiver)
+    ';' 	reduce using rule 48 (SimpleStmt)
+
+    VariableDecl	go to state 70
+    Variable	go to state 11
+    Type	go to state 30
+    StmtBlock	go to state 71
+    Stmt	go to state 184
+    SimpleStmt	go to state 73
+    LValue	go to state 74
+    OptReceiver	go to state 75
+    Call	go to state 76
+    ForStmt	go to state 77
+    WhileStmt	go to state 78
+    IfStmt	go to state 79
+    SwitchStmt	go to state 80
+    BreakStmt	go to state 81
+    ReturnStmt	go to state 82
+    PrintStmt	go to state 83
+    Expr	go to state 84
+    Constant	go to state 85
+
+
+
+state 180
+
+    CaseStmt  ->  T_Case T_IntConstant ':' . StmtList   (rule 66)
+
+    $default	reduce using rule 35 (StmtList)
+
+    StmtList	go to state 185
+
+
+
+state 181
+
+    DefaultStmt  ->  T_Default . ':' StmtList   (rule 67)
+
+    ':' 	shift, and go to state 186
+
+
+
+state 182
+
+    CaseList  ->  CaseList CaseStmt .   (rule 64)
+
+    $default	reduce using rule 64 (CaseList)
+
+
+
+state 183
+
+    SwitchStmt  ->  T_Switch '(' Expr ')' '{' CaseStmt CaseList DefaultStmt . '}'   (rule 63)
+
+    '}' 	shift, and go to state 187
+
+
+
+state 184
+
+    ForStmt  ->  T_For '(' SimpleStmt ';' BoolExpr ';' SimpleStmt ')' Stmt .   (rule 58)
+
+    $default	reduce using rule 58 (ForStmt)
+
+
+
+state 185
+
+    StmtList  ->  StmtList . Stmt   (rule 34)
+    CaseStmt  ->  T_Case T_IntConstant ':' StmtList .   (rule 66)
+
+    error	shift, and go to state 48
+    T_Void	shift, and go to state 3
+    T_Bool	shift, and go to state 4
+    T_Int	shift, and go to state 5
+    T_Double	shift, and go to state 6
+    T_String	shift, and go to state 7
+    T_Class	shift, and go to state 28
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_While	shift, and go to state 51
+    T_For	shift, and go to state 52
+    T_If	shift, and go to state 53
+    T_Return	shift, and go to state 54
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_Print	shift, and go to state 61
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    T_Switch	shift, and go to state 64
+    T_Break	shift, and go to state 65
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+    '{' 	shift, and go to state 44
+
+    T_Identifier	reduce using rule 52 (OptReceiver)
+    T_Case	reduce using rule 66 (CaseStmt)
+    T_Default	reduce using rule 66 (CaseStmt)
+    ';' 	reduce using rule 48 (SimpleStmt)
+    '}' 	reduce using rule 66 (CaseStmt)
+
+    VariableDecl	go to state 70
+    Variable	go to state 11
+    Type	go to state 30
+    StmtBlock	go to state 71
+    Stmt	go to state 72
+    SimpleStmt	go to state 73
+    LValue	go to state 74
+    OptReceiver	go to state 75
+    Call	go to state 76
+    ForStmt	go to state 77
+    WhileStmt	go to state 78
+    IfStmt	go to state 79
+    SwitchStmt	go to state 80
+    BreakStmt	go to state 81
+    ReturnStmt	go to state 82
+    PrintStmt	go to state 83
+    Expr	go to state 84
+    Constant	go to state 85
+
+
+
+state 186
+
+    DefaultStmt  ->  T_Default ':' . StmtList   (rule 67)
+
+    $default	reduce using rule 35 (StmtList)
+
+    StmtList	go to state 188
+
+
+
+state 187
+
+    SwitchStmt  ->  T_Switch '(' Expr ')' '{' CaseStmt CaseList DefaultStmt '}' .   (rule 63)
+
+    $default	reduce using rule 63 (SwitchStmt)
+
+
+
+state 188
+
+    StmtList  ->  StmtList . Stmt   (rule 34)
+    DefaultStmt  ->  T_Default ':' StmtList .   (rule 67)
+
+    error	shift, and go to state 48
+    T_Void	shift, and go to state 3
+    T_Bool	shift, and go to state 4
+    T_Int	shift, and go to state 5
+    T_Double	shift, and go to state 6
+    T_String	shift, and go to state 7
+    T_Class	shift, and go to state 28
+    T_Null	shift, and go to state 49
+    T_This	shift, and go to state 50
+    T_While	shift, and go to state 51
+    T_For	shift, and go to state 52
+    T_If	shift, and go to state 53
+    T_Return	shift, and go to state 54
+    T_StringConstant	shift, and go to state 55
+    T_IntConstant	shift, and go to state 56
+    T_DoubleConstant	shift, and go to state 57
+    T_BoolConstant	shift, and go to state 58
+    T_New	shift, and go to state 59
+    T_NewArray	shift, and go to state 60
+    T_Print	shift, and go to state 61
+    T_ReadInteger	shift, and go to state 62
+    T_ReadLine	shift, and go to state 63
+    T_Switch	shift, and go to state 64
+    T_Break	shift, and go to state 65
+    '-' 	shift, and go to state 66
+    '!' 	shift, and go to state 67
+    '(' 	shift, and go to state 68
+    '{' 	shift, and go to state 44
+
+    T_Identifier	reduce using rule 52 (OptReceiver)
+    ';' 	reduce using rule 48 (SimpleStmt)
+    '}' 	reduce using rule 67 (DefaultStmt)
+
+    VariableDecl	go to state 70
+    Variable	go to state 11
+    Type	go to state 30
+    StmtBlock	go to state 71
+    Stmt	go to state 72
+    SimpleStmt	go to state 73
+    LValue	go to state 74
+    OptReceiver	go to state 75
+    Call	go to state 76
+    ForStmt	go to state 77
+    WhileStmt	go to state 78
+    IfStmt	go to state 79
+    SwitchStmt	go to state 80
+    BreakStmt	go to state 81
+    ReturnStmt	go to state 82
+    PrintStmt	go to state 83
+    Expr	go to state 84
+    Constant	go to state 85
+
+
+
+state 189
+
+    $   	go to state 190
+
+
+
+state 190
+
+    $   	go to state 191
+
+
+
+state 191
+
+    $default	accept

@@ -1,0 +1,15 @@
+DeclList -> 
+Type -> void
+Formals -> 
+StmtList ->
+Constant -> stringConstant
+Expr -> Constant
+ExprList -> Expr
+PrintStmt -> Print ( ExprList )
+Stmt -> PrintStmt ;
+StmtList -> StmtList Stmt
+StmtBlock -> { StmtList }
+FunctionDefn -> Type identifier ( Formals ) StmtBlock
+Decl -> FunctionDefn
+DeclList -> DeclList Decl
+Program -> DeclList

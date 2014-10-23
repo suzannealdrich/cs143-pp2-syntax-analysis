@@ -1,0 +1,10 @@
+void main() {
+ 
+  int i;
+  int j;
+
+  i++;
+  j = i--;
+  j = i+++j;
+
+}

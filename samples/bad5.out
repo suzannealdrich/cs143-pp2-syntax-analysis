@@ -1,0 +1,26 @@
+DeclList -> 
+Type -> void
+Formals -> 
+StmtList ->
+Type -> int
+Variable -> Type identifier
+VariableDecl -> Variable ;
+Stmt -> VariableDecl
+StmtList -> StmtList Stmt
+Type -> int
+Variable -> Type identifier
+VariableDecl -> Variable ;
+Stmt -> VariableDecl
+StmtList -> StmtList Stmt
+OptReceiver ->
+LValue -> OptReceiver identifier
+OptReceiver ->
+LValue -> OptReceiver identifier
+Expr -> LValue
+SimpleStmt -> LValue = Expr
+
+*** Error line 5 column 12
+     b = a = 10;
+           ^
+*** parse error
+
